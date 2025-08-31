@@ -1,0 +1,154 @@
+Program 1:
+Enter num 1:
+4
+Enter num 2:
+5
+The sum of two given numbers is:9
+
+Program 2:
+Enter num 1:
+223
+Enter num 2:
+43
+Enter num 3:
+234
+the average of the given three numbers is :166.66666666666666
+
+Program 3:
+Enter length of rectangle:
+23
+Enter breadth of rectangle:
+3
+The area of the rectangle is: 69
+
+Program 4:
+Enter temperature in Celsius:
+34.7
+The given temperature  in Fahrenheit is: 94.46000000000001
+
+Program 5:
+Enter side of square:
+12
+The perimeter of the square is: 48
+
+Program 6:
+Enter principal amount:
+234000000
+Enter intrest:
+34
+Enter time(in years):
+44
+The simple interest is: 3.50064E9
+
+Program 7:
+Enter a number:
+4
+4 is an even number.
+
+Program 8:
+Enter num 1:
+34
+Enter num 2:
+23
+34 is the largest number.
+
+Program 9:
+Enter num 1:
+33
+Enter num 2:
+56
+33 is the smallest number.
+
+Program 10:
+Enter a number:
+23
+23 is a positive number.
+
+Program 11:
+Enter your age:
+18 
+You are eligible to vote.
+
+Program  12:
+Enter distance in kilometers:
+567.789
+567.789 kilometers is equal to 567789.0 meters.
+
+Program 13:
+Enter a number:
+4
+The square of 4 is 16
+
+Program 14:
+Enter a number:
+4
+The cube of 4 is 64
+
+Program 15:
+Enter marks for subject 1:
+22
+Enter marks for subject 2:
+21
+Enter marks for subject 3:
+17
+Enter marks for subject 4:
+23
+Enter marks for subject 5:
+21
+Total marks: 104
+Average marks: 20.8
+
+Program 16:
+Enter a number:
+55
+55 is divisible by 5.
+
+Program 17:
+Enter the  price:
+50
+Enter the discount percentage:
+20
+The price after a discount of 20.0% is: 40.0
+
+Program 18:
+Enter your marks(min =0 max =100):
+41
+You have passed.
+
+Program 19:
+Enter a year:
+2000
+2000 is a leap year.
+
+Program 20:
+Enter weight in kg:
+87
+Enter height in meters:
+1.55
+Your BMI is: 36.21227887617065
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

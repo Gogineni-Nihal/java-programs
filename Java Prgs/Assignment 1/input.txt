@@ -1,0 +1,67 @@
+Program 1:
+num1=4 , num2=5
+
+Program 2:
+num1=223  num2=43  num3=234
+
+Program 3:
+length=23 breadth=3
+
+Program 4:
+Celsius=34.7
+
+Program 5:
+Side=12
+
+Program 6:
+principal amount=234000000 interest=34 time(in years)=44
+
+Program 7:
+num=4
+
+Program 8:
+num1=34 num2=23
+
+Program 9:
+num1=33 num2=56
+
+Program 10:
+num=23
+
+Program 11:
+age=18
+
+Program  12:
+Kilometers=567.789
+
+Program 13:
+num=4
+
+Program 14:
+num=4
+
+Program 15:
+sub1=22 sub2=21 sub3=17 sub4=23 sub5=21
+
+Program 16:
+num=55
+
+Program 17:
+price=50 discount=20
+
+Program 18:
+marks=41
+
+Program 19:
+year=2000
+
+Program 20:
+weight=87  height=1.55
+
+
+
+
+
+
+
+
